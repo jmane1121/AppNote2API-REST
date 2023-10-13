@@ -16,7 +16,7 @@ interface  AppContainer{
 //Esta es una clase que implementa la interfaz AppContainer. En su constructor, inicializa Retrofit para comunicarse con un servidor remoto.
 class DefaultAppContainer : AppContainer {
 
-    private val BASE_URL = "https://3994-2806-370-608b-6100-75cb-d1ce-eadb-5cc3.ngrok-free.app"
+    private val BASE_URL = "https://4bff-2806-266-2400-9055-2ced-2b41-37f6-e4e9.ngrok-free.app/"
         //https://android-kotlin-fun-mars-server.appspot.com
 
 

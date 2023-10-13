@@ -9,7 +9,7 @@ import retrofit2.Retrofit
 import retrofit2.http.GET
 //Esta constante almacena la URL base del servidor al que se accede para obtener datos relacionados
 // con fotos de Marte. En este caso, la URL base es "https://android-kotlin-fun-mars-server.appspot.com".
-private const val BASE_URL = "https://3994-2806-370-608b-6100-75cb-d1ce-eadb-5cc3.ngrok-free.app"
+private const val BASE_URL = "https://4bff-2806-266-2400-9055-2ced-2b41-37f6-e4e9.ngrok-free.app/"
 
 
 //Esta variable crea una instancia de Retrofit, que es una biblioteca ampliamente utilizada en Android para realizar solicitudes HTTP a servicios web. Retrofit simplifica la comunicación con servicios web y la conversión de respuestas en objetos utilizables.
